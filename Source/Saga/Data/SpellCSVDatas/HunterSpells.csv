@@ -1,0 +1,4 @@
+---,D_CombatName,D_Thumbnail,D_CostMana,D_RangeMin,D_RangeMax,bIsSingleAction,D_SpellGridShapeType,D_ActionMontage,D_TargetNum,bIsProjectile,SpellNiagara,D_Projectile
+First,"NormalAttack","None","1","2","3","True","DIAGONAL","None","1","True","None","/Script/Engine.BlueprintGeneratedClass'/Game/Saga/Blueprints/Projectile/BP_HunterNormalProjectile.BP_HunterNormalProjectile_C'"
+Second," ","None","0","0","0","False","DIAGONAL","None","0","False","None","None"
+Third," ","None","0","0","0","False","DIAGONAL","None","0","False","None","None"

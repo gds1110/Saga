@@ -1,0 +1,4 @@
+---,D_CombatName,D_Thumbnail,D_CostMana,D_RangeMin,D_RangeMax,bIsSingleAction,D_SpellGridShapeType,D_ActionMontage,D_TargetNum,bIsProjectile,SpellNiagara,D_Projectile
+First,"MeeleAttack","/Script/Engine.Texture2D'/Game/Saga/Textures/SpellIcon/MeeleAttack3.MeeleAttack3'","0","1","2","True","LINE","/Script/Engine.AnimMontage'/Game/Saga/Animation/PlayableCharacter/Guardian/AM_MeeleAttack.AM_MeeleAttack'","1","False","None","None"
+Second,"UpperSword","/Script/Engine.Texture2D'/Game/Saga/Textures/SpellIcon/ICON_Spell3.ICON_Spell3'","3","0","2","False","SQUARE","/Script/Engine.AnimMontage'/Game/Saga/Animation/PlayableCharacter/Guardian/AM_SkillW.AM_SkillW'","99","False","/Script/Niagara.NiagaraSystem'/Game/Saga/Effect/UpSwordOne1.UpSwordOne1'","None"
+Third,"","/Script/Engine.Texture2D'/Game/Saga/Textures/SpellIcon/ICON_Spell2.ICON_Spell2'","0","0","0","False","DIAGONAL","None","0","False","None","None"
